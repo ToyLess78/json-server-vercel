@@ -467,6 +467,26 @@
       "pharmacy": "CureExpress",
       "price": 47.99,
       "img": "drug_42.webp"
+    },
+    {
+      "id": "0916271d-6755-4f9d-bf09-b35659791456",
+      "genericName": "CLARITHROMYCIN 7.5MG",
+      "brandName": "MOBIC",
+      "measurementUnit": "None",
+      "form": "Tablet",
+      "pharmacy": "CureExpress",
+      "price": 32.99,
+      "img": "drug_43.webp"
+    },
+    {
+      "id": "2481c50a-18f4-4233-a5c3-73f716829ec9",
+      "genericName": "TARTRATE 10MG",
+      "brandName": "ZOFRAN",
+      "measurementUnit": "None",
+      "form": "Tablet",
+      "pharmacy": "WellMed",
+      "price": 46.99,
+      "img": "drug_44.webp"
     }
   ],
   "order": []
